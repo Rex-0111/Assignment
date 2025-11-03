@@ -1,5 +1,5 @@
-https://github.com/user-attachments/assets/d0ce2c88-62aa-4fbf-883a-fc2a9d558b3f
 
+https://github.com/user-attachments/assets/1f764a4b-1b8d-487a-8747-1b6add540e12
 
 # Unity Test Assignment - README
 This repository contains a Unity project developed as a test assignment, showcasing various core game development concepts including asset integration, game management, UI/UX, and local data persistence.
